@@ -6,9 +6,9 @@
 # Configuration
 
 # Set the symbols to be displayed in polybar
-intel_symbol="#1"
-nvidia_symbol="#2"
-hybrid_symbol="#3"
+intel_symbol="GPU: Intel"
+nvidia_symbol="GPU: Nvidia"
+hybrid_symbol="GPU: Hybrid"
 
 # Prefered setup. 
 # Set to 1 if the system switches between hybrid and nvidia.
