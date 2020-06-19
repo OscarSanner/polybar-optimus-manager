@@ -1,0 +1,1 @@
+# polybar-optimus-manager
