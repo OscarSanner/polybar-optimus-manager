@@ -1,6 +1,8 @@
 # polybar-optimus-manager
 
-A script that shows the current GPU in use, given that the GPUs are managed by optimus-manager. The script also allows for switching in one click.
+##### This script has been pulled into the repository [Polybar-Scripts](https://github.com/polybar/polybar-scripts) and the version found there is more up to date.
+
+A script that shows the current GPU in use, given that the GPUs are managed by optimus-manager. The script also allows for switching in one click. 
 
 ![polybar-optimus-manager](screenshots/1.png)
 
